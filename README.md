@@ -36,6 +36,9 @@ Workshop Mode:
 * Default username:password for single-user mode: `guest:guest`
 
 
+<!--trigger first scan-->
+
+
 ### Contribute
 * Fork the repo
 * Create your branch
