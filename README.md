@@ -56,7 +56,7 @@ Once you have added the lesson click on "Refresh List" button at the top of the 
 * Abbas Naderi
 * Johanna Curiel
 * Shivam Dixit
-* Prasham Gupta (Logo)
+* Prasham Gupta (Logo) 
 
 ### More Info
 https://www.owasp.org/index.php/WebGoatPHP
